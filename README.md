@@ -14,6 +14,7 @@ A **React application** that fetches user data from an external API and displays
 * 🧼 Clean component-based architecture
 
 ---
+[Deployed @](https://react-js-carousal.vercel.app/)
 
 ## Preview
 ![ss](./image.png)
